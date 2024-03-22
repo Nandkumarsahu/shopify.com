@@ -2,7 +2,7 @@
 Welcome to my GitHub repository featuring a shopify web page which is an online e commerce website which a user can use by signing up or login
 in the account and enjoy features like purchase the   sports collection, fashion collection of all age group, beauty products and all the essential items.
 
-*** I give my website name is shopify.com ("this is not clone of official shopfiy.com"), I used only name for this website.
+*** Shopify.com is the name of my website ("this is not a clone of official shopfiy.com"). This is the only name I used for this website.
 
 ## Technology STACK / Requirements:-
 1. HTML.
@@ -11,10 +11,10 @@ in the account and enjoy features like purchase the   sports collection, fashion
 4. Font Awesome.
 
 ## ABSTRACT:-
-->>> I use HTML  to designed the layout of my webpage shopify.com  in which we are using tags,paragraph,heading,span and many more.
-     CSS is use to give style  and makes Responsive, I use some propertise of css in writting content and giving proper style.
-     All the images is used in this project is taken from online site like( Google,Amazon,flipkart and other differet sites)
-     and ''' ICONs are taken from Font Awesome  through  cdnjs (Content Delivery Network JS)'''
+->>> HTML was used to create the layout of my website, shopify.com, which heavily utilizes tags, paragraphs, headers, spans, and other features.
+Use CSS to create style and make anything responsive. I utilize suitable CSS while producing content and adding style.
+The whole set of images used for the project came from a variety of websites, including Google, Amazon, Flipkart, and others.
+additionally, ""'ICONs are downloaded over the Content Delivery Network JS from Font Awesome"''
      
 ## cdnjs (Content Delivery Network JS):- widely-used content delivery networks for JavaScript libraries. It hosts a vast 
      collection of open-source JavaScript libraries and frameworks, allowing developers to easily include these libraries 
